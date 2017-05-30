@@ -12,7 +12,7 @@ namespace GitTest
         {
             var klass = new klass();
             klass.hello();
-
+            Console.ReadKey();
         }
     }
 }
